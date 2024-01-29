@@ -1,13 +1,18 @@
 
 # GymFitnessCenter Using C# .Net Windows Form Application 
 
-Gym Fitness Center Management systme is a C# .Net project of my 5th semester project with SQL Server Database.
+The Gym Fitness Center Management system is a C# .Net project of my 5th-semester project with SQL Server Database.
 
 ## Screenshots
 
-![Splash Screen](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Splash Screen](https://github.com/AmirAbbas101/GymFitnessCenter-Using-C-.Net-Windows-Form-Application/blob/main/Screenshots/Splash%20Screen.png)
 
-![Login Screen](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Login Screen](https://github.com/AmirAbbas101/GymFitnessCenter-Using-C-.Net-Windows-Form-Application/blob/main/Screenshots/Login%20Screen.png)
+
+![Dashboard](https://github.com/AmirAbbas101/GymFitnessCenter-Using-C-.Net-Windows-Form-Application/blob/main/Screenshots/dashboard.png)
+
+![Adding Members](https://github.com/AmirAbbas101/GymFitnessCenter-Using-C-.Net-Windows-Form-Application/blob/main/Screenshots/Adding%20member.png)
+
 
 ## Tech Stack
 
